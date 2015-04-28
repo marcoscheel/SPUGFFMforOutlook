@@ -1,0 +1,44 @@
+{
+    "Events": [ 
+        {
+          "Title": "10. Treffen der SPUG Frankfurt",
+          "Description": "Am 26.3 sind wir mit unserem Treffen wieder bei der bridgingIT in der Solmsstraße in Frankfurt zu Gast. Dieses Mal wollen wir uns auf das Thema ""Workflow"" im SharePoint Umfeld konzentrieren.\nWir haben folgende 3 Vorträge für Euch - (keine Sorge - wir werden keine 3 Stunden Frontal-Beschallungsvorträge machen, mit dem Ziel die Aufnahmefähigkeit abends zu testen:))\n- Einführung in die Welt der SharePoint Workflows von Erik Wucher, bridging IT\n- K2 Blackpearl - Vor und Nachteile der K2 Workflowlösung von Daniel Szego, SPEG GmbH\n- Workflow Management auf Basis der SharePoint 2013 Workflow Farm, Oliver Dörr, PwC IT Services Europe\nNeben den Vorträgen gibt es genügend Zeit für Neueigkeiten und Networking. Wie immer ist für das leibliche Wohl gesorgt.",
+          "StartEvent": "2015-03-26T17:30:00+01:00",
+          "EndEvent": "2015-03-26T21:30:00+01:00",
+          "Mentions": [
+            "#SPUG",
+            "#SPUGFFM",
+            "@bridgingIT"
+          ],
+          "Visible": true,
+          "Links": [
+            "https://www.xing.com/events/10-treffen-spug-frankfurt-1529617",
+            "http://www.bridging-it.de"
+            ],
+          "Location":"bridging IT GmbH, Solmsstraße 4, 60486 Frankfurt am Main",
+          "LocationGPS":"50.119404,8.637864"
+        },
+        {
+          "Title": "11. Treffen der SPUG Frankfurt",
+          "Description": "Am 07.05. sind wir mit unserem Treffen wieder bei der bridgingIT in der Solmsstraße in Frankfurt zu Gast. ...",
+          "StartEvent": "2015-05-07T17:30:00+01:00",
+          "EndEvent": "2015-05-07T21:30:00+01:00",
+          "Mentions": [
+            "#SPUG",
+            "#SPUGFFM",
+            "@bridgingIT",
+            "@marcoscheel",
+            "@glueckkanja"
+          ],
+          "Visible": true,
+          "Links": [
+            "https://www.xing.com/events/10-treffen-spug-frankfurt-1529617",
+            "http://www.bridging-it.de",
+            "http://marcoscheel.de",
+            "http://glueckkanja.com"
+            ],
+          "Location":"bridging IT GmbH, Solmsstraße 4, 60486 Frankfurt am Main",
+          "LocationGPS":"50.119404,8.637864"
+        }
+    ]
+}
