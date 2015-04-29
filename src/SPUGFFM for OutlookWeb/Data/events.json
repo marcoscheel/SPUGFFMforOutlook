@@ -3,8 +3,7 @@
         {
           "Title": "10. Treffen der SPUG Frankfurt",
           "Description": "Am 26.3 sind wir mit unserem Treffen wieder bei der bridgingIT in der Solmsstraße in Frankfurt zu Gast. Dieses Mal wollen wir uns auf das Thema \"Workflow\" im SharePoint Umfeld konzentrieren.\nWir haben folgende 3 Vorträge für Euch - (keine Sorge - wir werden keine 3 Stunden Frontal-Beschallungsvorträge machen, mit dem Ziel die Aufnahmefähigkeit abends zu testen:))\n- Einführung in die Welt der SharePoint Workflows von Erik Wucher, bridging IT\n- K2 Blackpearl - Vor und Nachteile der K2 Workflowlösung von Daniel Szego, SPEG GmbH\n- Workflow Management auf Basis der SharePoint 2013 Workflow Farm, Oliver Dörr, PwC IT Services Europe\nNeben den Vorträgen gibt es genügend Zeit für Neueigkeiten und Networking. Wie immer ist für das leibliche Wohl gesorgt.",
-          "StartEvent": "2015-03-26T17:30:00+01:00",
-          "EndEvent": "2015-03-26T21:30:00+01:00",
+          "Date": "2015-05-07 17:30 - 21:30",
           "Mentions": [
             "#SPUG",
             "#SPUGFFM",
@@ -15,14 +14,13 @@
             "https://www.xing.com/events/10-treffen-spug-frankfurt-1529617",
             "http://www.bridging-it.de"
             ],
-          "Location":"bridging IT GmbH, Solmsstraße 4, 60486 Frankfurt am Main",
+          "Location":"bridging IT GmbH\nSolmsstraße 4\n60486 Frankfurt am Main",
           "LocationGPS":"50.119404,8.637864"
         },
         {
           "Title": "11. Treffen der SPUG Frankfurt",
-          "Description": "Am 07.05. sind wir mit unserem Treffen wieder bei der bridgingIT in der Solmsstraße in Frankfurt zu Gast. ...",
-          "StartEvent": "2015-05-07T17:30:00+01:00",
-          "EndEvent": "2015-05-07T21:30:00+01:00",
+          "Description": "Marco Scheel hat folgendes Thema für uns:\n\nArbeiten im Kontext: Von Skype for Business bis Office Apps\nDer moderne Arbeitsplatz sollte sich deutlich vom Arbeitsplatz der Jahrtausendwende unterscheiden. Email ist ein Standard in Unternehmen. Moderne Smartphones sind die Regel und nicht die Ausnahme. SharePoint ist ein Erfolg. Cloud-Angebote wie Office 365 sind nicht mehr Tabu. Eigentlich ist alles da aber irgendwie fehlt etwas. In vielen Fällen ist es der Kontext, welcher auf der Strecke bleibt. Unified Communication Lösungen wie Skype for Business (formaly known as Lync) versuchen diese Lücke zu stopfen. Office Apps? Ah SharePoint Apps! Nein es gibt mehr als SharePoint Apps, es gibt die Office Apps für Outlook, Word, PowerPoint und Excel. Am Beispiel von Skype for Business und Office Apps möchte ich euch zeigen, wie man es schaffen kann, im Unternehmen für mehr Kontext in der Kommunikation zu sorgen\n\nWie immer ist für das leibliche Wohl gesorgt.",
+          "Date": "2015-05-07 17:30 - 21:30",
           "Mentions": [
             "#SPUG",
             "#SPUGFFM",
@@ -37,7 +35,7 @@
             "http://marcoscheel.de",
             "http://glueckkanja.com"
             ],
-          "Location":"bridging IT GmbH, Solmsstraße 4, 60486 Frankfurt am Main",
+          "Location":"bridging IT GmbH\nSolmsstraße 4\n60486 Frankfurt am Main",
           "LocationGPS":"50.119404,8.637864"
         }
     ]
