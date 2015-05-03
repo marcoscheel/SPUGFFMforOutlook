@@ -67,20 +67,28 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AppCompose\App.css" />
-    <Content Include="AppCompose\App.js" />
-    <Content Include="AppCompose\Home\Home.css" />
-    <Content Include="AppCompose\Home\Home.html" />
-    <Content Include="AppCompose\Home\Home.js" />
-    <Content Include="AppRead\App.css" />
-    <Content Include="AppRead\App.js" />
-    <Content Include="AppRead\Home\Home.css" />
-    <Content Include="AppRead\Home\Home.html" />
-    <Content Include="AppRead\Home\Home.js" />
+    <Content Include="Images\Logo128x128.png" />
+    <Content Include="Images\Logo32x32.png" />
+    <Content Include="Images\Logo64x64.png" />
+    <Content Include="OutlookAppCompose\App.css" />
+    <Content Include="OutlookAppCompose\App.js" />
+    <Content Include="OutlookAppCompose\Home\Home.css" />
+    <Content Include="OutlookAppCompose\Home\Home.html" />
+    <Content Include="OutlookAppCompose\Home\Home.js" />
+    <Content Include="OutlookAppRead\App.css" />
+    <Content Include="OutlookAppRead\App.js" />
+    <Content Include="OutlookAppRead\Home\Home.css" />
+    <Content Include="OutlookAppRead\Home\Home.html" />
+    <Content Include="OutlookAppRead\Home\Home.js" />
     <Content Include="Content\Office.css" />
     <Content Include="Images\Close.png" />
     <Content Include="packages.config" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="PowerPointApp\App.css" />
+    <Content Include="PowerPointApp\App.js" />
+    <Content Include="PowerPointApp\Home\Home.css" />
+    <Content Include="PowerPointApp\Home\Home.html" />
+    <Content Include="PowerPointApp\Home\Home.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />

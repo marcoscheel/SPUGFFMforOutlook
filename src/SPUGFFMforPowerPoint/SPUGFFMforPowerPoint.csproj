@@ -4,25 +4,24 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C540414D-239A-4C2B-B91A-AB386921ECC4}</ProjectGuid>
+    <ProjectGuid>{A9057415-DD3D-4DE6-999A-D67F83E91409}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SPUGFFM_for_Outlook</RootNamespace>
-    <AssemblyName>SPUGFFM for Outlook</AssemblyName>
+    <RootNamespace>SPUGFFMforPowerPoint</RootNamespace>
+    <AssemblyName>SPUGFFMforPowerPoint</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetOfficeVersion>15.0</TargetOfficeVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <IncludeAssemblyInPackage>False</IncludeAssemblyInPackage>
-    <AppFeaturePartId>{1b0e2c56-2a3f-407f-9de5-2d6692010abf}</AppFeaturePartId>
-    <WspPartId>{ffa0ed20-9d62-4d15-832f-2a63b62b18b2}</WspPartId>
-    <WorkflowPartId>{b254258d-54a2-4bbc-8fea-79531d8a2538}</WorkflowPartId>
-    <CspkgPartId>{545322c7-4b12-48d0-bd53-b7ccbc100dd6}</CspkgPartId>
-    <SqlPackagePartId>{597cad44-17dd-452f-8ca2-c41d921bc46d}</SqlPackagePartId>
-    <ProjectMode>MailApp</ProjectMode>
+    <AppFeaturePartId>{c38d3233-410c-4867-ad68-a2e0f98f22ec}</AppFeaturePartId>
+    <WspPartId>{ca76c6aa-9463-4104-9b71-bb18817f882c}</WspPartId>
+    <WorkflowPartId>{791cd382-f4e1-4f70-95b2-50eedabae780}</WorkflowPartId>
+    <CspkgPartId>{f9093664-70eb-48de-95c0-af22407708b6}</CspkgPartId>
+    <SqlPackagePartId>{d11a4f53-63c1-4275-9a7e-8ee685c738cc}</SqlPackagePartId>
+    <ProjectMode>OfficeApp</ProjectMode>
     <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
     <MinimumOfficeToolsVersion>12.1</MinimumOfficeToolsVersion>
-    <FileUpgradeFlags />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -44,10 +43,10 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="SPUGFFM for OutlookManifest\SharePointProjectItem.spdata">
-      <SharePointProjectItemId>{4919db41-3d9c-4da3-b84a-bdb3a3cd9c73}</SharePointProjectItemId>
+    <None Include="SPUGFFMforPowerPointManifest\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{e0449810-823b-41b5-b770-3e47b2dd0ba6}</SharePointProjectItemId>
     </None>
-    <Content Include="SPUGFFM for OutlookManifest\SPUGFFM for Outlook.xml">
+    <Content Include="SPUGFFMforPowerPointManifest\SPUGFFMforPowerPoint.xml">
       <OpcRelationship>manifest-oemanifest</OpcRelationship>
     </Content>
   </ItemGroup>
@@ -58,7 +57,7 @@
       <Private>True</Private>
       <RoleType>Web</RoleType>
       <OutputItemType>SharePointWebProjectOutput</OutputItemType>
-      <RoleName>SPUGFFM for OutlookWeb</RoleName>
+      <RoleName>SPUGFFM for OfficeWeb</RoleName>
       <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>

@@ -5,7 +5,9 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPUGFFM for Outlook", "SPUGFFM for Outlook.csproj", "{C540414D-239A-4C2B-B91A-AB386921ECC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPUGFFM for OutlookWeb", "..\SPUGFFM for OutlookWeb\SPUGFFM for OutlookWeb.csproj", "{DF4E5FB9-1A03-4FE8-84C3-8278398E1A26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPUGFFM for OfficeWeb", "..\SPUGFFM for OutlookWeb\SPUGFFM for OfficeWeb.csproj", "{DF4E5FB9-1A03-4FE8-84C3-8278398E1A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPUGFFMforPowerPoint", "..\SPUGFFMforPowerPoint\SPUGFFMforPowerPoint.csproj", "{A9057415-DD3D-4DE6-999A-D67F83E91409}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,12 @@ Global
 		{DF4E5FB9-1A03-4FE8-84C3-8278398E1A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF4E5FB9-1A03-4FE8-84C3-8278398E1A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF4E5FB9-1A03-4FE8-84C3-8278398E1A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9057415-DD3D-4DE6-999A-D67F83E91409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9057415-DD3D-4DE6-999A-D67F83E91409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9057415-DD3D-4DE6-999A-D67F83E91409}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A9057415-DD3D-4DE6-999A-D67F83E91409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9057415-DD3D-4DE6-999A-D67F83E91409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9057415-DD3D-4DE6-999A-D67F83E91409}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

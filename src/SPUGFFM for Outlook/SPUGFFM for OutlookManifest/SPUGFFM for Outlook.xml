@@ -6,7 +6,10 @@
   <ProviderName>Marco Scheel</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="SPUGFFM für Outlook" />
-  <Description DefaultValue="SPUGFFM für Outlook"/>
+  <Description DefaultValue="Die SharePoint UserGroup Frankfurt veranstaltet in regelmäßigen Abständen Treffen rund um SharePoint. Durch die App für Outlook ist es nun noch leichter sich über die entsprechende Veranstaltung zu informieren."/>
+  <IconUrl DefaultValue="~remoteAppUrl/Images/Logo64x64.png" />
+  <HighResolutionIconUrl DefaultValue="~remoteAppUrl/Images/Logo128x128.png" />
+  <SupportUrl DefaultValue="https://marcoscheel.freshdesk.com" />
   <Hosts>
     <Host Name="Mailbox" />
   </Hosts>
@@ -18,12 +21,12 @@
   <FormSettings>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="~remoteAppUrl/AppCompose/Home/Home.html"/>
+        <SourceLocation DefaultValue="~remoteAppUrl/OutlookAppCompose/Home/Home.html"/>
       </DesktopSettings>
     </Form>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="~remoteAppUrl/AppRead/Home/Home.html" />
+        <SourceLocation DefaultValue="~remoteAppUrl/OutlookAppRead/Home/Home.html" />
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
