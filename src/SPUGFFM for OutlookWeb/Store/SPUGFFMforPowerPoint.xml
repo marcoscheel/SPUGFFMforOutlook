@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ContentApp">
+  <Id>9185f338-c970-4fb2-a385-0f2e3d88e6a3</Id>
+  <Version>1.0.0.0</Version>
+  <ProviderName>Marco Scheel</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <DisplayName DefaultValue="SPUGFFM für PowerPoint" />
+  <Description DefaultValue="Die App habt ihr immer die aktuellesten Information zu den Treffen der SharePoint UserGroup Frankfurtzu direkt in PowerPoint verfügbar."/>
+  <IconUrl DefaultValue="https://spugffmcloud.azurewebsites.net/Images/Logo32x32.png" />
+  <HighResolutionIconUrl DefaultValue="https://spugffmcloud.azurewebsites.net/Images/Logo64x64.png" />
+  <SupportUrl DefaultValue="https://marcoscheel.freshdesk.com" />
+  <Hosts>
+    <Host Name="Presentation" />
+  </Hosts>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="https://spugffmcloud.azurewebsites.net/PowerPointApp/Home/Home.html" />
+    <RequestedWidth>800</RequestedWidth>
+    <RequestedHeight>400</RequestedHeight>
+  </DefaultSettings>
+  <Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>

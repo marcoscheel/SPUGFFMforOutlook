@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\events.json" />
+    <None Include="Properties\PublishProfiles\spugffmcloud.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -346,6 +347,8 @@
     <Content Include="Scripts\Office\metadata\features.xml" />
     <Content Include="Scripts\Office\MicrosoftAjax.js" />
     <Content Include="Scripts\_officeintellisense.js" />
+    <Content Include="Store\SPUGFFMforOutlook.xml" />
+    <Content Include="Store\SPUGFFMforPowerPoint.xml" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
