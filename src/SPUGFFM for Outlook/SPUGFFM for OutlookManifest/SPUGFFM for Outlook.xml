@@ -3,10 +3,10 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="MailApp">
   <Id>905f1d17-1be2-4a4c-be83-7384e238b7ba</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>[Provider name]</ProviderName>
+  <ProviderName>Marco Scheel</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="SPUGFFM for Outlook" />
-  <Description DefaultValue="SPUGFFM for Outlook"/>
+  <DisplayName DefaultValue="SPUGFFM für Outlook" />
+  <Description DefaultValue="SPUGFFM für Outlook"/>
   <Hosts>
     <Host Name="Mailbox" />
   </Hosts>

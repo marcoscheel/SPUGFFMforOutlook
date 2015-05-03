@@ -6,36 +6,52 @@
     <title></title>
     <script src="../../Scripts/jquery-1.9.1.js" type="text/javascript"></script>
 
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
     <link href="../../Content/Office.css" rel="stylesheet" type="text/css" />
     <script src="https://appsforoffice.microsoft.com/lib/1.1/hosted/office.js" type="text/javascript"></script>
 
     <!-- To enable offline debugging using a local reference to Office.js, use:                        -->
-    <!--  <script src="../../Scripts/Office/MicrosoftAjax.js" type="text/javascript"></script>  -->
-    <!--  <script src="../../Scripts/Office/1.1/office.js" type="text/javascript"></script>  -->
+    <!-- <script src="../../Scripts/Office/MicrosoftAjax.js" type="text/javascript"></script>  -->
+    <!-- <script src="../../Scripts/Office/1.1/office.js" type="text/javascript"></script>  -->
 
-    <link href="../App.css" rel="stylesheet" type="text/css" />
-    <script src="../App.js" type="text/javascript"></script>
+    <link href="../App.css?v=1.0.0.0" rel="stylesheet" type="text/css" />
+    <script src="../App.js?v=1.0.0.0" type="text/javascript"></script>
 
-    <link href="Home.css" rel="stylesheet" type="text/css" />
-    <script src="Home.js" type="text/javascript"></script>
+    <link href="Home.css?v=1.0.0.0" rel="stylesheet" type="text/css" />
+    <script src="Home.js?v=1.0.0.0" type="text/javascript"></script>
+
+
 </head>
 <body>
-    <div id="content-header">
-        <div class="padding">
-            <h1>Welcome</h1>
-        </div>
-    </div>
-    <div id="content-main">
-        <div class="padding">
-            <p><strong>Add home screen content here.</strong></p>
-            <p>For example:</p>
-            <button id="set-subject">Set subject</button><button id="get-subject">Get subject</button>
-            <button id="add-to-recipients">Add yourself to recipients list</button>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-sm-4">
+                <h1>SharePoint UserGroup Frankfurt</h1>
+                <h2 id="title"></h2>
+                <p><button class="btn btn-primary btn-block" id="set-event">Einfügen</button></p>
+                <p><span class="glyphicon glyphicon-calendar"></span> <span id="date">Date</span></p>
+                <p><span class="glyphicon glyphicon-globe"></span> <a id="location" href="#" target="_blank"></a></p>
 
-            <p style="margin-top: 50px;">
-                <a target="_blank" href="https://go.microsoft.com/fwlink/?LinkId=276814">Find more samples online...</a>
-            </p>
+                <p><a id="previous" href="#"><span class="glyphicon glyphicon-chevron-left"></span></a> Anderes Treffen <a id="next" href="#"><span class="glyphicon glyphicon-chevron-right"></span></a></p>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <h2 id="loading">Loading...</h2>
+                <p id="description"></p>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <h2>Tag uns auf Twitter</h2>
+                <p id="social">...</p>
+                <h2>Links</h2>
+                <p id="links">...</p>
+            </div>
         </div>
     </div>
+    <footer class="footer">
+        <div class="container">
+            <p class="text-muted"><a target="_blank" href="https://www.xing.com/communities/groups/sharepoint-usergroup-frankfurt-am-main-3a25-1065994">Mehr zur SharePoint UserGroup gibt es hier.</a> | <span style="font-size:smaller">V 1.0.0.0</span></p>
+        </div>
+    </footer>
 </body>
 </html>
