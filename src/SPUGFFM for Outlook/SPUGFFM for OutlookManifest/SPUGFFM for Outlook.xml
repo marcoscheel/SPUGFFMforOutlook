@@ -4,7 +4,7 @@
   <Id>905f1d17-1be2-4a4c-be83-7384e238b7ba</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>Marco Scheel</ProviderName>
-  <DefaultLocale>en-US</DefaultLocale>
+  <DefaultLocale>de-DE</DefaultLocale>
   <DisplayName DefaultValue="SPUGFFM für Outlook" />
   <Description DefaultValue="Die SharePoint UserGroup Frankfurt veranstaltet in regelmäßigen Abständen Treffen rund um SharePoint. Durch die App für Outlook ist es nun noch leichter sich über die entsprechende Veranstaltung zu informieren."/>
   <IconUrl DefaultValue="~remoteAppUrl/Images/Logo64x64.png" />
