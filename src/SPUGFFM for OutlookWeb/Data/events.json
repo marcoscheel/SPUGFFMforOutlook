@@ -43,6 +43,32 @@
             ],
           "Location":"bridging IT GmbH\nSolmsstraße 4\n60486 Frankfurt am Main",
           "LocationGPS":"50.119404,8.637864"
+        },
+        {
+          "Title": "12. Treffen der SPUG Frankfurt",
+          "Description": "Am 12. SPUG Treffen in Frankfurt betrachten wir das Thema Archivierung in SharePoint genauer. Erst diskutieren wir anhand der gesetzlichen Randbedingungen die Notwendigkeit der Archivierung mit allen Auswirkungen und daraus resultierenden Aufgaben.\nIm Anschluß zeigt uns Daniel Szego von der SPEG GmbH eine Tooling Übersicht.\nWie immer ist für das leibliche Wohl gesorgt",
+          "EventUrl":  "https://www.xing.com/events/12-treffen-spug-frankfurt-1570974",
+          "Date": "2015-07-08 17:30 - 20:30",
+          "Mentions": [
+            "#SPUG",
+            "#SPUGFFM",
+            "#techmasters",
+            "#archiving",
+            "@bridgingIT",
+            "@deasillo",
+            "@SP_EG"
+          ],
+          "Visible": true,
+          "Links": [
+            "https://www.xing.com/events/10-treffen-spug-frankfurt-1529617",
+            "http://www.bridging-it.de",
+            "http://danielszego.blogspot.de",
+            "http://www.sp-eg.de",
+            "http://www.tecmasters.net/de/produkte/active-repository-manager"
+            ],
+          "Location":"bridging IT GmbH\nSolmsstraße 4\n60486 Frankfurt am Main",
+          "LocationGPS":"50.119404,8.637864"
         }
+
     ]
 }
