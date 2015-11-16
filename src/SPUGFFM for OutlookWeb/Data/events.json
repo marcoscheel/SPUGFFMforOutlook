@@ -1,4 +1,4 @@
-﻿{
+{
     "Events": [ 
         {
           "Title": "10. Treffen der SPUG Frankfurt",
@@ -36,7 +36,7 @@
           ],
           "Visible": true,
           "Links": [
-            "https://www.xing.com/events/10-treffen-spug-frankfurt-1529617",
+            "https://www.xing.com/events/11-treffen-spug-frankfurt-1549042",
             "http://www.bridging-it.de",
             "http://marcoscheel.de",
             "http://glueckkanja.com"
@@ -60,7 +60,7 @@
           ],
           "Visible": true,
           "Links": [
-            "https://www.xing.com/events/10-treffen-spug-frankfurt-1529617",
+            "https://www.xing.com/events/12-treffen-spug-frankfurt-1570974",
             "http://www.bridging-it.de",
             "http://danielszego.blogspot.de",
             "http://www.sp-eg.de",
@@ -68,7 +68,29 @@
             ],
           "Location":"bridging IT GmbH\nSolmsstraße 4\n60486 Frankfurt am Main",
           "LocationGPS":"50.119404,8.637864"
+        },
+        {
+          "Title": "13. Treffen der SPUG Frankfurt",
+          "Description": "Am 13. SPUG Treffen in Frankfurt haben wir Markus Alt von K2 zu Gast.\n\nAm 13. SPUG Treffen in Frankfurt haben wir Markus Alt von K2 zu Gast.\n\nUnternehmen setzen auf SharePoint als Intranet Portal, Plattform für Zusammenarbeit, Suchmaschine, Dokumentenmanagementsystem, Content-Management-System und sogar als Business Intelligence Engine. Gibt es überhaupt noch Lücken? Lernen Sie in dieser Session, wie Sie die Vorteile von SharePoint für Ihr Unternehmen maximieren, modernste Anforderungen wie mobile und offline Nutzung meistern und Ihre Applikationen für O365 und SharePoint mit den neusten K2 Features für Formulare und Workflows unter Kontrolle halten.\nWie immer ist für das leibliche Wohl gesorgt.",
+          "EventUrl":  "https://www.xing.com/events/13-treffen-spug-frankfurt-sp-anwendungsplattform-1620335",
+          "Date": "2015-11-26 17:30 - 20:30",
+          "Mentions": [
+            "#SPUG",
+            "#SPUGFFM",
+            "#k2",
+            "@bridgingIT",
+            "@markusalt",
+            "@K2onK2"
+          ],
+          "Visible": true,
+          "Links": [
+            "https://www.xing.com/events/13-treffen-spug-frankfurt-sp-anwendungsplattform-1620335",
+            "http://www.bridging-it.de",
+            "http://markusalt.azurewebsites.net/",
+            "http://www.k2.com"
+            ],
+          "Location":"bridging IT GmbH\nSolmsstraße 4\n60486 Frankfurt am Main",
+          "LocationGPS":"50.119404,8.637864"
         }
-
     ]
 }
